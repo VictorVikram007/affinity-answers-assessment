@@ -1,0 +1,3 @@
+Should this data be in JSON instead?
+Yes, JSON is better for machine-readability and API integration. TSV is human-readable but less structured. 
+JSON would support nested data, easier parsing, and validation for automation tools.
